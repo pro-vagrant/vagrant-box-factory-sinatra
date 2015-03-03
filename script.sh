@@ -7,6 +7,7 @@ echo "Install Puppet modules..."
 #     sudo puppet module install gajdaw-symfony
 #
 
+sudo puppet module install puppetlabs-stdlib
 sudo puppet module install gajdaw-ubuntu
 sudo puppet module install gajdaw-environment
 sudo puppet module install gajdaw-nodejs
