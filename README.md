@@ -1,10 +1,12 @@
 Vagrant Box Factory: Sinatra
 ============================
 
+Underlying OS: Ubuntu 14.04 generated with https://github.com/pro-vagrant/ubuntu
+
 #1. Binary version
 
 Binary version of a box is available at:
-https://vagrantcloud.com/gajdaw/boxes/sinatra
+http://boxes.gajdaw.pl/sinatra/
 
 #2. How to produce this box?
 
